@@ -1,0 +1,9 @@
+server:
+  port:8081
+
+person:
+  name: fengbin
+  age: 30
+  dog:
+    name: haochu
+    age: 1
